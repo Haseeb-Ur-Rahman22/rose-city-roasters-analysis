@@ -30,6 +30,27 @@ About $210K was lost across ~18,200 order lines sold below cost (worst SKUs: Coa
 
 ---
 
+## Dashboard
+
+A three-page Power BI report on a dark theme. Built on the cleaned SQL views, filtered by a shared year slicer.
+
+**Page 1 — Executive Summary**
+Revenue, gross profit, margin, operating profit, and loss-making lines, with the monthly revenue-and-margin trend and profit by category and location.
+
+![Executive Summary](Dashboard/Dashboard_page-0001.jpg)
+
+**Page 2 — Profit Leak Deep Dive**
+The biggest loss-making products, the four-year rise in cost of goods, and how margin collapses as discounts deepen.
+
+![Profit Leak Deep Dive](Dashboard/Dashboard_page-0002.jpg)
+
+**Page 3 — Customers & Payments**
+Outstanding balances by customer, late-payment rate by segment, and where unpaid invoices concentrate.
+
+![Customers & Payments](Dashboard/Dashboard_page-0003.jpg)
+
+---
+
 ## How it was built
 
 **1. Profile & clean (T-SQL).**
@@ -48,7 +69,9 @@ Three pages: an Executive Summary, a Profit Leak Deep Dive, and a Customers & Pa
 
 | File | What it is |
 |---|---|
-| `RoseCityRoasters_Cleaning.sql` | Full T-SQL profiling and cleaning script (check → fix → verify) |
+| `SQL.sql` | Full T-SQL profiling and cleaning script (check → fix → verify) |
+| `Dashboard/` | Power BI file (`.pbix`) and page exports |
+| `Data/` | The dataset the analysis runs on |
 | `RoseCityRoasters_CaseStudy.pptx` | Presentation deck of the findings |
 | `README.md` | This file |
 
