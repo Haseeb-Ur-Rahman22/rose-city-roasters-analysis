@@ -1,0 +1,673 @@
+expense_id,month,expense_category,amount
+1,2022-01,Rent,12117.26
+2,2022-01,Salaries & Labor,32872.5
+3,2022-01,Packaging,10708.76
+4,2022-01,Freight & Delivery,12810.71
+5,2022-01,Marketing,17332.09
+6,2022-01,Card Processing Fees,9034.9
+7,2022-01,Utilities,1383.11
+8,2022-01,Spoilage & Waste,5992.32
+9,2022-01,Equipment Maintenance,466.28
+10,2022-01,Software & SaaS,490.41
+11,2022-01,Insurance,781.82
+12,2022-01,Professional Fees,1077.85
+13,2022-01,Cleaning & Supplies,271.65
+14,2022-01,Misc,704.34
+15,2022-02,Rent,17264.43
+16,2022-02,Salaries & Labor,46858.0
+17,2022-02,Packaging,8977.2
+18,2022-02,Freight & Delivery,12105.85
+19,2022-02,Marketing,18157.45
+20,2022-02,Card Processing Fees,8363.12
+21,2022-02,Utilities,2728.78
+22,2022-02,Spoilage & Waste,5016.13
+23,2022-02,Equipment Maintenance,597.35
+24,2022-02,Software & SaaS,517.48
+25,2022-02,Insurance,777.96
+26,2022-02,Professional Fees,486.99
+27,2022-02,Cleaning & Supplies,573.36
+28,2022-02,Misc,640.28
+29,2022-03,Rent,17210.95
+30,2022-03,Salaries & Labor,48772.94
+31,2022-03,Packaging,10058.74
+32,2022-03,Freight & Delivery,14772.36
+33,2022-03,Marketing,19553.55
+34,2022-03,Card Processing Fees,8789.0
+35,2022-03,Utilities,2631.12
+36,2022-03,Spoilage & Waste,6881.3
+37,2022-03,Equipment Maintenance,904.17
+38,2022-03,Software & SaaS,553.36
+39,2022-03,Insurance,765.7
+40,2022-03,Professional Fees,422.39
+41,2022-03,Cleaning & Supplies,591.82
+42,2022-03,Misc,515.38
+43,2022-04,Rent,22503.61
+44,2022-04,Salaries & Labor,62012.86
+45,2022-04,Packaging,9482.43
+46,2022-04,Freight & Delivery,13604.82
+47,2022-04,Marketing,17983.35
+48,2022-04,Card Processing Fees,8088.32
+49,2022-04,Utilities,3864.44
+50,2022-04,Spoilage & Waste,4123.64
+51,2022-04,Equipment Maintenance,1278.14
+52,2022-04,Software & SaaS,603.95
+53,2022-04,Insurance,773.3
+54,2022-04,Professional Fees,1201.16
+55,2022-04,Cleaning & Supplies,815.3
+56,2022-04,Misc,368.11
+57,2022-05,Rent,22465.19
+58,2022-05,Salaries & Labor,62761.6
+59,2022-05,Packaging,8479.96
+60,2022-05,Freight & Delivery,11766.26
+61,2022-05,Marketing,17637.02
+62,2022-05,Card Processing Fees,7544.97
+63,2022-05,Utilities,4152.24
+64,2022-05,Spoilage & Waste,5616.35
+65,2022-05,Equipment Maintenance,1385.82
+66,2022-05,Software & SaaS,650.28
+67,2022-05,Insurance,780.81
+68,2022-05,Professional Fees,777.69
+69,2022-05,Cleaning & Supplies,834.98
+70,2022-05,Misc,534.41
+71,2022-06,Rent,22430.22
+72,2022-06,Salaries & Labor,62439.1
+73,2022-06,Packaging,9272.0
+74,2022-06,Freight & Delivery,13161.01
+75,2022-06,Marketing,21821.33
+76,2022-06,Card Processing Fees,7173.55
+77,2022-06,Utilities,4155.71
+78,2022-06,Spoilage & Waste,4311.55
+79,2022-06,Equipment Maintenance,1118.47
+80,2022-06,Software & SaaS,650.93
+81,2022-06,Insurance,792.19
+82,2022-06,Professional Fees,555.83
+83,2022-06,Cleaning & Supplies,903.78
+84,2022-06,Misc,462.92
+85,2022-07,Rent,22434.39
+86,2022-07,Salaries & Labor,63974.58
+87,2022-07,Packaging,9916.91
+88,2022-07,Freight & Delivery,13765.66
+89,2022-07,Marketing,16549.07
+90,2022-07,Card Processing Fees,7812.02
+91,2022-07,Utilities,4095.99
+92,2022-07,Spoilage & Waste,5792.98
+93,2022-07,Equipment Maintenance,564.04
+94,2022-07,Software & SaaS,695.7
+95,2022-07,Insurance,783.26
+96,2022-07,Professional Fees,884.05
+97,2022-07,Cleaning & Supplies,840.07
+98,2022-07,Misc,829.73
+99,2022-08,Rent,22541.42
+100,2022-08,Salaries & Labor,65847.28
+101,2022-08,Packaging,9565.43
+102,2022-08,Freight & Delivery,13655.6
+103,2022-08,Marketing,18217.33
+104,2022-08,Card Processing Fees,7414.12
+105,2022-08,Utilities,4155.32
+106,2022-08,Spoilage & Waste,5122.55
+107,2022-08,Equipment Maintenance,949.9
+108,2022-08,Software & SaaS,739.48
+109,2022-08,Insurance,811.04
+110,2022-08,Professional Fees,1281.32
+111,2022-08,Cleaning & Supplies,730.74
+112,2022-08,Misc,632.46
+113,2022-09,Rent,27601.58
+114,2022-09,Salaries & Labor,78958.22
+115,2022-09,Packaging,10987.08
+116,2022-09,Freight & Delivery,15434.87
+117,2022-09,Marketing,21136.2
+118,2022-09,Card Processing Fees,8427.16
+119,2022-09,Utilities,5853.86
+120,2022-09,Spoilage & Waste,5894.29
+121,2022-09,Equipment Maintenance,1510.94
+122,2022-09,Software & SaaS,776.47
+123,2022-09,Insurance,796.89
+124,2022-09,Professional Fees,707.69
+125,2022-09,Cleaning & Supplies,1076.57
+126,2022-09,Misc,567.92
+127,2022-10,Rent,27680.38
+128,2022-10,Salaries & Labor,78673.12
+129,2022-10,Packaging,11295.97
+130,2022-10,Freight & Delivery,18267.21
+131,2022-10,Marketing,21982.1
+132,2022-10,Card Processing Fees,9914.21
+133,2022-10,Utilities,5766.37
+134,2022-10,Spoilage & Waste,7435.46
+135,2022-10,Equipment Maintenance,648.87
+136,2022-10,Software & SaaS,829.25
+137,2022-10,Insurance,773.02
+138,2022-10,Professional Fees,374.62
+139,2022-10,Cleaning & Supplies,1104.61
+140,2022-10,Misc,554.63
+141,2022-11,Rent,27367.07
+142,2022-11,Salaries & Labor,78056.83
+143,2022-11,Packaging,13085.62
+144,2022-11,Freight & Delivery,17778.59
+145,2022-11,Marketing,26872.4
+146,2022-11,Card Processing Fees,10185.04
+147,2022-11,Utilities,5019.99
+148,2022-11,Spoilage & Waste,6024.08
+149,2022-11,Equipment Maintenance,1482.15
+150,2022-11,Software & SaaS,832.36
+151,2022-11,Insurance,781.4
+152,2022-11,Professional Fees,631.91
+153,2022-11,Cleaning & Supplies,1163.07
+154,2022-11,Misc,544.19
+155,2022-12,Rent,27248.45
+156,2022-12,Salaries & Labor,78475.06
+157,2022-12,Packaging,14128.99
+158,2022-12,Freight & Delivery,19474.1
+159,2022-12,Marketing,33637.4
+160,2022-12,Card Processing Fees,11837.47
+161,2022-12,Utilities,5513.11
+162,2022-12,Spoilage & Waste,8294.92
+163,2022-12,Equipment Maintenance,1390.77
+164,2022-12,Software & SaaS,872.01
+165,2022-12,Insurance,780.63
+166,2022-12,Professional Fees,414.9
+167,2022-12,Cleaning & Supplies,1135.11
+168,2022-12,Misc,654.1
+169,2023-01,Rent,28668.86
+170,2023-01,Salaries & Labor,75334.05
+171,2023-01,Packaging,15790.8
+172,2023-01,Freight & Delivery,19498.15
+173,2023-01,Marketing,27364.5
+174,2023-01,Card Processing Fees,12287.75
+175,2023-01,Utilities,6399.18
+176,2023-01,Spoilage & Waste,6833.65
+177,2023-01,Equipment Maintenance,1678.52
+178,2023-01,Software & SaaS,934.6
+179,2023-01,Insurance,897.5
+180,2023-01,Professional Fees,813.26
+181,2023-01,Cleaning & Supplies,1288.45
+182,2023-01,Misc,636.78
+183,2023-02,Rent,28620.67
+184,2023-02,Salaries & Labor,80696.19
+185,2023-02,Packaging,12424.28
+186,2023-02,Freight & Delivery,18837.27
+187,2023-02,Marketing,24634.27
+188,2023-02,Card Processing Fees,11027.71
+189,2023-02,Utilities,5682.61
+190,2023-02,Spoilage & Waste,6037.2
+191,2023-02,Equipment Maintenance,1338.83
+192,2023-02,Software & SaaS,933.5
+193,2023-02,Insurance,836.65
+194,2023-02,Professional Fees,1179.92
+195,2023-02,Cleaning & Supplies,1032.51
+196,2023-02,Misc,793.24
+197,2023-03,Rent,28532.78
+198,2023-03,Salaries & Labor,79691.17
+199,2023-03,Packaging,13890.46
+200,2023-03,Freight & Delivery,21417.25
+201,2023-03,Marketing,24552.43
+202,2023-03,Card Processing Fees,12356.97
+203,2023-03,Utilities,5438.41
+204,2023-03,Spoilage & Waste,8044.81
+205,2023-03,Equipment Maintenance,1552.19
+206,2023-03,Software & SaaS,1035.82
+207,2023-03,Insurance,824.76
+208,2023-03,Professional Fees,628.51
+209,2023-03,Cleaning & Supplies,1071.19
+210,2023-03,Misc,860.26
+211,2023-04,Rent,28690.87
+212,2023-04,Salaries & Labor,83654.21
+213,2023-04,Packaging,13322.63
+214,2023-04,Freight & Delivery,17913.94
+215,2023-04,Marketing,23859.73
+216,2023-04,Card Processing Fees,10202.33
+217,2023-04,Utilities,5692.54
+218,2023-04,Spoilage & Waste,7847.4
+219,2023-04,Equipment Maintenance,1786.47
+220,2023-04,Software & SaaS,1036.14
+221,2023-04,Insurance,870.69
+222,2023-04,Professional Fees,560.63
+223,2023-04,Cleaning & Supplies,990.22
+224,2023-04,Misc,877.8
+225,2023-05,Rent,28359.67
+226,2023-05,Salaries & Labor,79534.66
+227,2023-05,Packaging,12851.46
+228,2023-05,Freight & Delivery,17733.44
+229,2023-05,Marketing,25368.15
+230,2023-05,Card Processing Fees,9762.3
+231,2023-05,Utilities,5694.37
+232,2023-05,Spoilage & Waste,8020.52
+233,2023-05,Equipment Maintenance,2031.95
+234,2023-05,Software & SaaS,1075.52
+235,2023-05,Insurance,885.75
+236,2023-05,Professional Fees,690.21
+237,2023-05,Cleaning & Supplies,1057.72
+238,2023-05,Misc,273.49
+239,2023-06,Rent,28794.83
+240,2023-06,Salaries & Labor,76927.33
+241,2023-06,Packaging,13417.56
+242,2023-06,Freight & Delivery,19332.91
+243,2023-06,Marketing,24377.35
+244,2023-06,Card Processing Fees,9431.13
+245,2023-06,Utilities,5750.01
+246,2023-06,Spoilage & Waste,6731.27
+247,2023-06,Equipment Maintenance,1754.57
+248,2023-06,Software & SaaS,1125.75
+249,2023-06,Insurance,858.08
+250,2023-06,Professional Fees,1182.21
+251,2023-06,Cleaning & Supplies,1207.91
+252,2023-06,Misc,251.1
+253,2023-07,Rent,33830.89
+254,2023-07,Salaries & Labor,98304.45
+255,2023-07,Packaging,12759.96
+256,2023-07,Freight & Delivery,17268.58
+257,2023-07,Marketing,18983.09
+258,2023-07,Card Processing Fees,9629.89
+259,2023-07,Utilities,7666.86
+260,2023-07,Spoilage & Waste,7407.27
+261,2023-07,Equipment Maintenance,1815.66
+262,2023-07,Software & SaaS,1080.75
+263,2023-07,Insurance,865.93
+264,2023-07,Professional Fees,759.17
+265,2023-07,Cleaning & Supplies,1397.1
+266,2023-07,Misc,251.69
+267,2023-08,Rent,34200.89
+268,2023-08,Salaries & Labor,93518.63
+269,2023-08,Packaging,14647.63
+270,2023-08,Freight & Delivery,21053.02
+271,2023-08,Marketing,27667.79
+272,2023-08,Card Processing Fees,10448.95
+273,2023-08,Utilities,7376.47
+274,2023-08,Spoilage & Waste,7973.24
+275,2023-08,Equipment Maintenance,1748.67
+276,2023-08,Software & SaaS,1116.38
+277,2023-08,Insurance,883.85
+278,2023-08,Professional Fees,1244.57
+279,2023-08,Cleaning & Supplies,1407.84
+280,2023-08,Misc,758.98
+281,2023-09,Rent,33819.09
+282,2023-09,Salaries & Labor,93849.46
+283,2023-09,Packaging,14978.03
+284,2023-09,Freight & Delivery,22190.77
+285,2023-09,Marketing,24950.77
+286,2023-09,Card Processing Fees,10495.76
+287,2023-09,Utilities,7506.45
+288,2023-09,Spoilage & Waste,7990.4
+289,2023-09,Equipment Maintenance,2256.15
+290,2023-09,Software & SaaS,1231.86
+291,2023-09,Insurance,856.63
+292,2023-09,Professional Fees,780.07
+293,2023-09,Cleaning & Supplies,1485.0
+294,2023-09,Misc,196.01
+295,2023-10,Rent,34348.02
+296,2023-10,Salaries & Labor,95246.37
+297,2023-10,Packaging,16286.43
+298,2023-10,Freight & Delivery,21734.93
+299,2023-10,Marketing,30635.91
+300,2023-10,Card Processing Fees,12721.9
+301,2023-10,Utilities,7009.94
+302,2023-10,Spoilage & Waste,8921.91
+303,2023-10,Equipment Maintenance,2461.42
+304,2023-10,Software & SaaS,1220.59
+305,2023-10,Insurance,853.75
+306,2023-10,Professional Fees,1050.53
+307,2023-10,Cleaning & Supplies,1143.83
+308,2023-10,Misc,894.84
+309,2023-11,Rent,33350.2
+310,2023-11,Salaries & Labor,101959.98
+311,2023-11,Packaging,17975.48
+312,2023-11,Freight & Delivery,24771.11
+313,2023-11,Marketing,28450.25
+314,2023-11,Card Processing Fees,13634.34
+315,2023-11,Utilities,7331.7
+316,2023-11,Spoilage & Waste,11157.68
+317,2023-11,Equipment Maintenance,1276.47
+318,2023-11,Software & SaaS,1290.64
+319,2023-11,Insurance,837.51
+320,2023-11,Professional Fees,1227.18
+321,2023-11,Cleaning & Supplies,1276.97
+322,2023-11,Misc,298.58
+323,2023-12,Rent,33354.04
+324,2023-12,Salaries & Labor,102132.8
+325,2023-12,Packaging,19179.16
+326,2023-12,Freight & Delivery,25382.56
+327,2023-12,Marketing,33398.23
+328,2023-12,Card Processing Fees,14931.28
+329,2023-12,Utilities,7958.72
+330,2023-12,Spoilage & Waste,10884.34
+331,2023-12,Equipment Maintenance,2094.07
+332,2023-12,Software & SaaS,1372.62
+333,2023-12,Insurance,846.67
+334,2023-12,Professional Fees,689.7
+335,2023-12,Cleaning & Supplies,1329.99
+336,2023-12,Misc,279.09
+337,2024-01,Rent,35259.9
+338,2024-01,Salaries & Labor,98764.27
+339,2024-01,Packaging,18629.98
+340,2024-01,Freight & Delivery,28484.91
+341,2024-01,Marketing,33491.32
+342,2024-01,Card Processing Fees,15246.15
+343,2024-01,Utilities,6884.77
+344,2024-01,Spoilage & Waste,11353.81
+345,2024-01,Equipment Maintenance,1919.47
+346,2024-01,Software & SaaS,1385.15
+347,2024-01,Insurance,931.0
+348,2024-01,Professional Fees,791.93
+349,2024-01,Cleaning & Supplies,1450.51
+350,2024-01,Misc,485.33
+351,2024-02,Rent,35223.03
+352,2024-02,Salaries & Labor,97585.04
+353,2024-02,Packaging,20120.48
+354,2024-02,Freight & Delivery,28465.18
+355,2024-02,Marketing,32148.97
+356,2024-02,Card Processing Fees,14358.15
+357,2024-02,Utilities,7819.31
+358,2024-02,Spoilage & Waste,9965.55
+359,2024-02,Equipment Maintenance,1985.08
+360,2024-02,Software & SaaS,1456.33
+361,2024-02,Insurance,913.18
+362,2024-02,Professional Fees,1274.86
+363,2024-02,Cleaning & Supplies,1511.07
+364,2024-02,Misc,481.34
+365,2024-03,Rent,40842.2
+366,2024-03,Salaries & Labor,122265.86
+367,2024-03,Packaging,21441.73
+368,2024-03,Freight & Delivery,29226.89
+369,2024-03,Marketing,31804.42
+370,2024-03,Card Processing Fees,15013.05
+371,2024-03,Utilities,8907.06
+372,2024-03,Spoilage & Waste,14564.48
+373,2024-03,Equipment Maintenance,1731.69
+374,2024-03,Software & SaaS,1357.15
+375,2024-03,Insurance,974.07
+376,2024-03,Professional Fees,454.99
+377,2024-03,Cleaning & Supplies,1643.24
+378,2024-03,Misc,435.38
+379,2024-04,Rent,40524.45
+380,2024-04,Salaries & Labor,107718.78
+381,2024-04,Packaging,18674.0
+382,2024-04,Freight & Delivery,30355.84
+383,2024-04,Marketing,41222.71
+384,2024-04,Card Processing Fees,13706.39
+385,2024-04,Utilities,8321.06
+386,2024-04,Spoilage & Waste,9293.07
+387,2024-04,Equipment Maintenance,2252.7
+388,2024-04,Software & SaaS,1516.3
+389,2024-04,Insurance,936.95
+390,2024-04,Professional Fees,610.18
+391,2024-04,Cleaning & Supplies,1560.48
+392,2024-04,Misc,230.04
+393,2024-05,Rent,41172.3
+394,2024-05,Salaries & Labor,118413.4
+395,2024-05,Packaging,17807.95
+396,2024-05,Freight & Delivery,29119.05
+397,2024-05,Marketing,33238.38
+398,2024-05,Card Processing Fees,13077.14
+399,2024-05,Utilities,9032.5
+400,2024-05,Spoilage & Waste,9891.6
+401,2024-05,Equipment Maintenance,2349.82
+402,2024-05,Software & SaaS,1426.81
+403,2024-05,Insurance,939.99
+404,2024-05,Professional Fees,406.71
+405,2024-05,Cleaning & Supplies,1659.09
+406,2024-05,Misc,472.94
+407,2024-06,Rent,41019.33
+408,2024-06,Salaries & Labor,119398.42
+409,2024-06,Packaging,19057.21
+410,2024-06,Freight & Delivery,23847.56
+411,2024-06,Marketing,25808.65
+412,2024-06,Card Processing Fees,11709.92
+413,2024-06,Utilities,8256.86
+414,2024-06,Spoilage & Waste,10778.02
+415,2024-06,Equipment Maintenance,2733.12
+416,2024-06,Software & SaaS,1550.53
+417,2024-06,Insurance,955.08
+418,2024-06,Professional Fees,464.55
+419,2024-06,Cleaning & Supplies,1524.82
+420,2024-06,Misc,194.11
+421,2024-07,Rent,41060.35
+422,2024-07,Salaries & Labor,116974.66
+423,2024-07,Packaging,16554.29
+424,2024-07,Freight & Delivery,24949.05
+425,2024-07,Marketing,30992.74
+426,2024-07,Card Processing Fees,11823.26
+427,2024-07,Utilities,8762.56
+428,2024-07,Spoilage & Waste,9789.03
+429,2024-07,Equipment Maintenance,2137.89
+430,2024-07,Software & SaaS,1600.72
+431,2024-07,Insurance,919.38
+432,2024-07,Professional Fees,699.88
+433,2024-07,Cleaning & Supplies,1938.15
+434,2024-07,Misc,719.46
+435,2024-08,Rent,40798.6
+436,2024-08,Salaries & Labor,121311.15
+437,2024-08,Packaging,18295.84
+438,2024-08,Freight & Delivery,27024.46
+439,2024-08,Marketing,34730.34
+440,2024-08,Card Processing Fees,12309.14
+441,2024-08,Utilities,8430.28
+442,2024-08,Spoilage & Waste,9683.49
+443,2024-08,Equipment Maintenance,2556.71
+444,2024-08,Software & SaaS,1567.9
+445,2024-08,Insurance,940.76
+446,2024-08,Professional Fees,1152.58
+447,2024-08,Cleaning & Supplies,1511.33
+448,2024-08,Misc,757.27
+449,2024-09,Rent,40978.86
+450,2024-09,Salaries & Labor,119876.5
+451,2024-09,Packaging,18103.65
+452,2024-09,Freight & Delivery,27470.65
+453,2024-09,Marketing,28737.28
+454,2024-09,Card Processing Fees,12633.96
+455,2024-09,Utilities,8581.21
+456,2024-09,Spoilage & Waste,9944.22
+457,2024-09,Equipment Maintenance,2882.04
+458,2024-09,Software & SaaS,1678.7
+459,2024-09,Insurance,936.19
+460,2024-09,Professional Fees,384.3
+461,2024-09,Cleaning & Supplies,1702.9
+462,2024-09,Misc,527.21
+463,2024-10,Rent,40543.52
+464,2024-10,Salaries & Labor,116287.29
+465,2024-10,Packaging,22417.63
+466,2024-10,Freight & Delivery,32718.58
+467,2024-10,Marketing,32140.57
+468,2024-10,Card Processing Fees,15037.75
+469,2024-10,Utilities,9087.66
+470,2024-10,Spoilage & Waste,11337.5
+471,2024-10,Equipment Maintenance,2823.82
+472,2024-10,Software & SaaS,1654.66
+473,2024-10,Insurance,954.68
+474,2024-10,Professional Fees,1058.59
+475,2024-10,Cleaning & Supplies,1560.34
+476,2024-10,Misc,361.41
+477,2024-11,Rent,41090.71
+478,2024-11,Salaries & Labor,122998.71
+479,2024-11,Packaging,22022.68
+480,2024-11,Freight & Delivery,31628.59
+481,2024-11,Marketing,38809.56
+482,2024-11,Card Processing Fees,16490.62
+483,2024-11,Utilities,8795.27
+484,2024-11,Spoilage & Waste,12863.91
+485,2024-11,Equipment Maintenance,2190.01
+486,2024-11,Software & SaaS,1808.68
+487,2024-11,Insurance,957.42
+488,2024-11,Professional Fees,1139.52
+489,2024-11,Cleaning & Supplies,1605.66
+490,2024-11,Misc,893.13
+491,2024-12,Rent,41007.17
+492,2024-12,Salaries & Labor,120441.92
+493,2024-12,Packaging,28773.34
+494,2024-12,Freight & Delivery,38311.05
+495,2024-12,Marketing,41123.6
+496,2024-12,Card Processing Fees,18379.66
+497,2024-12,Utilities,8789.96
+498,2024-12,Spoilage & Waste,15511.6
+499,2024-12,Equipment Maintenance,2089.75
+500,2024-12,Software & SaaS,1804.27
+501,2024-12,Insurance,955.66
+502,2024-12,Professional Fees,545.24
+503,2024-12,Cleaning & Supplies,1556.52
+504,2024-12,Misc,383.05
+505,2025-01,Rent,42334.2
+506,2025-01,Salaries & Labor,119163.37
+507,2025-01,Packaging,26848.41
+508,2025-01,Freight & Delivery,45574.36
+509,2025-01,Marketing,39779.34
+510,2025-01,Card Processing Fees,18325.73
+511,2025-01,Utilities,8727.36
+512,2025-01,Spoilage & Waste,17008.36
+513,2025-01,Equipment Maintenance,2561.77
+514,2025-01,Software & SaaS,1741.34
+515,2025-01,Insurance,1022.3
+516,2025-01,Professional Fees,1149.2
+517,2025-01,Cleaning & Supplies,1415.51
+518,2025-01,Misc,494.59
+519,2025-02,Rent,42109.71
+520,2025-02,Salaries & Labor,124916.52
+521,2025-02,Packaging,26083.65
+522,2025-02,Freight & Delivery,39655.54
+523,2025-02,Marketing,42806.35
+524,2025-02,Card Processing Fees,16416.91
+525,2025-02,Utilities,9366.98
+526,2025-02,Spoilage & Waste,14124.41
+527,2025-02,Equipment Maintenance,2480.03
+528,2025-02,Software & SaaS,1758.93
+529,2025-02,Insurance,1034.47
+530,2025-02,Professional Fees,1231.28
+531,2025-02,Cleaning & Supplies,1605.64
+532,2025-02,Misc,673.5
+533,2025-03,Rent,42137.91
+534,2025-03,Salaries & Labor,123656.05
+535,2025-03,Packaging,25025.06
+536,2025-03,Freight & Delivery,42945.27
+537,2025-03,Marketing,39589.07
+538,2025-03,Card Processing Fees,17338.74
+539,2025-03,Utilities,10195.19
+540,2025-03,Spoilage & Waste,15243.28
+541,2025-03,Equipment Maintenance,3009.68
+542,2025-03,Software & SaaS,1843.26
+543,2025-03,Insurance,999.5
+544,2025-03,Professional Fees,1131.07
+545,2025-03,Cleaning & Supplies,1547.43
+546,2025-03,Misc,420.65
+547,2025-04,Rent,42815.9
+548,2025-04,Salaries & Labor,124350.64
+549,2025-04,Packaging,22288.29
+550,2025-04,Freight & Delivery,35367.53
+551,2025-04,Marketing,27931.77
+552,2025-04,Card Processing Fees,15584.35
+553,2025-04,Utilities,9810.54
+554,2025-04,Spoilage & Waste,12280.32
+555,2025-04,Equipment Maintenance,2681.65
+556,2025-04,Software & SaaS,1888.02
+557,2025-04,Insurance,1036.92
+558,2025-04,Professional Fees,471.81
+559,2025-04,Cleaning & Supplies,1550.89
+560,2025-04,Misc,525.71
+561,2025-05,Rent,42563.58
+562,2025-05,Salaries & Labor,119443.61
+563,2025-05,Packaging,24186.17
+564,2025-05,Freight & Delivery,33974.63
+565,2025-05,Marketing,42442.8
+566,2025-05,Card Processing Fees,15698.17
+567,2025-05,Utilities,9279.34
+568,2025-05,Spoilage & Waste,15412.37
+569,2025-05,Equipment Maintenance,2954.22
+570,2025-05,Software & SaaS,2023.31
+571,2025-05,Insurance,1007.01
+572,2025-05,Professional Fees,1344.99
+573,2025-05,Cleaning & Supplies,1531.85
+574,2025-05,Misc,617.31
+575,2025-06,Rent,42034.77
+576,2025-06,Salaries & Labor,119814.96
+577,2025-06,Packaging,22341.24
+578,2025-06,Freight & Delivery,33230.18
+579,2025-06,Marketing,39422.28
+580,2025-06,Card Processing Fees,13711.98
+581,2025-06,Utilities,9168.81
+582,2025-06,Spoilage & Waste,14314.97
+583,2025-06,Equipment Maintenance,3419.38
+584,2025-06,Software & SaaS,1997.41
+585,2025-06,Insurance,1030.27
+586,2025-06,Professional Fees,721.42
+587,2025-06,Cleaning & Supplies,1647.4
+588,2025-06,Misc,702.72
+589,2025-07,Rent,42302.26
+590,2025-07,Salaries & Labor,126006.96
+591,2025-07,Packaging,24052.49
+592,2025-07,Freight & Delivery,34891.84
+593,2025-07,Marketing,35560.81
+594,2025-07,Card Processing Fees,14823.03
+595,2025-07,Utilities,8846.48
+596,2025-07,Spoilage & Waste,13525.12
+597,2025-07,Equipment Maintenance,1558.42
+598,2025-07,Software & SaaS,1963.17
+599,2025-07,Insurance,986.88
+600,2025-07,Professional Fees,432.59
+601,2025-07,Cleaning & Supplies,1485.02
+602,2025-07,Misc,750.62
+603,2025-08,Rent,41979.63
+604,2025-08,Salaries & Labor,117731.03
+605,2025-08,Packaging,22474.99
+606,2025-08,Freight & Delivery,39198.06
+607,2025-08,Marketing,32557.86
+608,2025-08,Card Processing Fees,14582.28
+609,2025-08,Utilities,9285.3
+610,2025-08,Spoilage & Waste,14136.0
+611,2025-08,Equipment Maintenance,2345.21
+612,2025-08,Software & SaaS,1969.79
+613,2025-08,Insurance,1038.65
+614,2025-08,Professional Fees,431.63
+615,2025-08,Cleaning & Supplies,1829.77
+616,2025-08,Misc,489.7
+617,2025-09,Rent,42410.68
+618,2025-09,Salaries & Labor,129823.59
+619,2025-09,Packaging,23237.96
+620,2025-09,Freight & Delivery,38071.67
+621,2025-09,Marketing,29718.35
+622,2025-09,Card Processing Fees,14500.71
+623,2025-09,Utilities,9577.01
+624,2025-09,Spoilage & Waste,16186.82
+625,2025-09,Equipment Maintenance,2260.1
+626,2025-09,Software & SaaS,2094.7
+627,2025-09,Insurance,974.62
+628,2025-09,Professional Fees,424.77
+629,2025-09,Cleaning & Supplies,1748.29
+630,2025-09,Misc,861.39
+631,2025-10,Rent,42532.17
+632,2025-10,Salaries & Labor,124040.87
+633,2025-10,Packaging,27172.95
+634,2025-10,Freight & Delivery,43145.57
+635,2025-10,Marketing,36752.35
+636,2025-10,Card Processing Fees,17734.35
+637,2025-10,Utilities,9195.43
+638,2025-10,Spoilage & Waste,15589.87
+639,2025-10,Equipment Maintenance,2148.26
+640,2025-10,Software & SaaS,2041.06
+641,2025-10,Insurance,1013.89
+642,2025-10,Professional Fees,982.91
+643,2025-10,Cleaning & Supplies,1736.79
+644,2025-10,Misc,824.74
+645,2025-11,Rent,42314.13
+646,2025-11,Salaries & Labor,126283.01
+647,2025-11,Packaging,26384.55
+648,2025-11,Freight & Delivery,46136.32
+649,2025-11,Marketing,46545.86
+650,2025-11,Card Processing Fees,18977.65
+651,2025-11,Utilities,9108.85
+652,2025-11,Spoilage & Waste,18731.69
+653,2025-11,Equipment Maintenance,2905.13
+654,2025-11,Software & SaaS,2158.51
+655,2025-11,Insurance,987.09
+656,2025-11,Professional Fees,1044.6
+657,2025-11,Cleaning & Supplies,1825.85
+658,2025-11,Misc,392.5
+659,2025-12,Rent,42096.31
+660,2025-12,Salaries & Labor,120295.93
+661,2025-12,Packaging,33317.06
+662,2025-12,Freight & Delivery,51388.2
+663,2025-12,Marketing,37829.96
+664,2025-12,Card Processing Fees,20401.86
+665,2025-12,Utilities,9455.76
+666,2025-12,Spoilage & Waste,18371.6
+667,2025-12,Equipment Maintenance,2487.48
+668,2025-12,Software & SaaS,2193.43
+669,2025-12,Insurance,1012.47
+670,2025-12,Professional Fees,356.14
+671,2025-12,Cleaning & Supplies,1517.37
+672,2025-12,Misc,409.55

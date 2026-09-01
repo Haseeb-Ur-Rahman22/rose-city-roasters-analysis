@@ -1,0 +1,405 @@
+product_id,product_name,category,subcategory,origin,list_price,base_unit_cost,launch_date,active_flag
+1,Cortado (Small),Brewed Beverage,Hot,NA,7.75,1.98,2022-01-01,1
+2,Cold Brew (Large),Brewed Beverage,Cold,NA,4.25,0.86,2024-09-01,1
+3,Cafe Latte (Large),Brewed Beverage,Hot,NA,6.5,2.18,2022-01-01,0
+4,Macchiato (Small),Brewed Beverage,Hot,NA,3.25,0.98,2022-06-01,1
+5,Americano (Regular),Brewed Beverage,Hot,NA,3.75,0.95,2022-01-01,1
+6,Chai Latte (Regular),Brewed Beverage,Hot,NA,3.75,1.38,2022-01-01,1
+7,Espresso (Large),Brewed Beverage,Hot,NA,6.5,1.73,2024-01-01,1
+8,Flat White (Regular),Brewed Beverage,Hot,NA,5.75,1.69,2022-01-01,1
+9,Pour Over (Small),Brewed Beverage,Hot,NA,5.0,1.33,2022-06-01,1
+10,Cappuccino (Regular),Brewed Beverage,Hot,NA,4.5,1.16,2022-01-01,0
+11,Affogato (Small),Brewed Beverage,Hot,NA,5.75,1.83,2022-01-01,1
+12,Flat White (Large),Brewed Beverage,Hot,NA,5.75,2.08,2022-01-01,1
+13,Pour Over (Regular),Brewed Beverage,Hot,NA,2.75,1.01,2024-09-01,1
+14,Mocha (Regular),Brewed Beverage,Hot,NA,6.75,1.55,2024-09-01,0
+15,Cafe Latte (Regular),Brewed Beverage,Hot,NA,5.25,1.34,2022-01-01,1
+16,Americano (Regular),Brewed Beverage,Hot,NA,5.25,1.39,2022-01-01,1
+17,Hot Chocolate (Small),Brewed Beverage,Hot,NA,5.5,1.74,2022-06-01,1
+18,Flat White (Small),Brewed Beverage,Hot,NA,7.0,1.89,2022-01-01,1
+19,Iced Latte (Small),Brewed Beverage,Cold,NA,5.75,2.19,2023-01-01,1
+20,Pour Over (Large),Brewed Beverage,Hot,NA,4.25,1.12,2022-01-01,1
+21,Macchiato (Large),Brewed Beverage,Hot,NA,6.75,7.54,2022-01-01,0
+22,Pour Over (Large),Brewed Beverage,Hot,NA,4.0,1.35,2022-01-01,0
+23,Americano (Regular),Brewed Beverage,Hot,NA,4.75,1.56,2022-06-01,1
+24,Cold Brew (Large),Brewed Beverage,Cold,NA,4.5,1.01,2022-01-01,1
+25,Pour Over (Small),Brewed Beverage,Hot,NA,5.5,1.55,2023-07-01,1
+26,Hot Chocolate (Large),Brewed Beverage,Hot,NA,3.5,1.08,2022-01-01,1
+27,Flat White (Regular),Brewed Beverage,Hot,NA,8.0,2.16,2022-01-01,1
+28,Double Espresso (Large),Brewed Beverage,Hot,NA,7.5,2.15,2022-01-01,1
+29,Americano (Regular),Brewed Beverage,Hot,NA,4.5,1.2,2022-01-01,1
+30,Cortado (Regular),Brewed Beverage,Hot,NA,4.75,1.21,2022-01-01,1
+31,Macchiato (Large),Brewed Beverage,Hot,NA,4.25,1.5,2022-01-01,1
+32,Hot Chocolate (Small),Brewed Beverage,Hot,NA,3.5,0.62,2022-01-01,1
+33,Hot Tea (Small),Brewed Beverage,Hot,NA,3.75,0.72,2023-01-01,1
+34,Affogato (Large),Brewed Beverage,Hot,NA,3.75,1.25,2022-01-01,1
+35,Hot Chocolate (Large),Brewed Beverage,Hot,NA,7.75,2.17,2022-01-01,1
+36,Mocha (Small),Brewed Beverage,Hot,NA,2.75,0.54,2022-01-01,1
+37,Flat White (Small),Brewed Beverage,Hot,NA,6.25,2.52,2024-09-01,0
+38,Flat White (Regular),Brewed Beverage,Hot,NA,6.5,2.3,2022-01-01,1
+39,Mocha (Small),Brewed Beverage,Hot,NA,7.0,1.58,2024-01-01,0
+40,Double Espresso (Large),Brewed Beverage,Hot,NA,3.5,1.08,2022-01-01,1
+41,Hot Chocolate (Small),Brewed Beverage,Hot,NA,5.25,1.3,2022-01-01,1
+42,Flat White (Large),Brewed Beverage,Hot,NA,4.25,1.37,2022-01-01,1
+43,Avocado Toast,Food,Bakery,NA,5.25,2.31,2022-01-01,1
+44,Butter Croissant,Food,Bakery,NA,2.75,1.22,2022-01-01,1
+45,Brownie,Food,Bakery,NA,7.75,2.61,2022-06-01,1
+46,Bagel & Cream Cheese,Food,Bakery,NA,7.5,3.5,2022-01-01,0
+47,Bagel & Cream Cheese,Food,Bakery,NA,6.75,2.91,2023-01-01,1
+48,Avocado Toast,Food,Bakery,NA,2.75,1.36,2022-01-01,1
+49,Banana Bread,Food,Bakery,NA,3.5,1.61,2022-01-01,0
+50,Cheesecake Slice,Food,Bakery,NA,5.75,2.77,2022-01-01,1
+51,Almond Croissant,Food,Bakery,NA,4.5,2.05,2022-01-01,1
+52,Chocolate Chip Cookie,Food,Bakery,NA,7.25,3.9,2023-01-01,0
+53,Avocado Toast,Food,Bakery,NA,3.5,1.81,2022-01-01,0
+54,Banana Bread,Food,Bakery,NA,7.0,1.93,2023-01-01,1
+55,Quiche,Food,Bakery,NA,5.5,2.36,2024-09-01,1
+56,Butter Croissant,Food,Bakery,NA,7.0,3.56,2023-07-01,1
+57,Granola Bowl,Food,Bakery,NA,7.5,3.18,2022-01-01,1
+58,Almond Croissant,Food,Bakery,NA,3.75,1.72,2022-01-01,0
+59,Bagel & Cream Cheese,Food,Bakery,NA,2.25,1.05,2024-01-01,1
+60,Almond Croissant,Food,Bakery,NA,3.0,1.45,2022-01-01,1
+61,Bagel & Cream Cheese,Food,Bakery,NA,6.0,2.64,2022-01-01,1
+62,Turkey Panini,Food,Bakery,NA,4.0,1.79,2023-07-01,1
+63,Brownie,Food,Bakery,NA,7.0,3.02,2024-09-01,1
+64,Quiche,Food,Bakery,NA,3.0,0.84,2024-09-01,0
+65,Blueberry Muffin,Food,Bakery,NA,5.5,2.35,2022-01-01,1
+66,Banana Bread,Food,Bakery,NA,2.25,1.16,2024-01-01,1
+67,Almond Croissant,Food,Bakery,NA,2.25,0.95,2022-01-01,1
+68,Cheesecake Slice,Food,Bakery,NA,2.5,0.99,2022-06-01,0
+69,Cheesecake Slice,Food,Bakery,NA,8.0,3.83,2024-09-01,0
+70,Quiche,Food,Bakery,NA,6.75,3.02,2023-01-01,1
+71,Ham & Cheese Croissant,Food,Bakery,NA,2.75,1.28,2024-09-01,1
+72,Cheesecake Slice,Food,Bakery,NA,5.0,1.81,2022-01-01,1
+73,Cheesecake Slice,Food,Bakery,NA,4.25,1.87,2022-01-01,1
+74,Avocado Toast,Food,Bakery,NA,3.5,1.65,2022-01-01,1
+75,Bagel & Cream Cheese,Food,Bakery,NA,4.5,1.56,2022-01-01,1
+76,Avocado Toast,Food,Bakery,NA,4.25,1.69,2023-01-01,0
+77,Willamette Dark Medium 12oz,Retail Beans,Blend,Willamette Dark,13.5,5.08,2022-01-01,1
+78,Rwanda Nyungwe Light 5lb,Retail Beans,Single Origin,Rwanda Nyungwe,24.0,11.95,2023-07-01,1
+79,Cascade Blend Light 2lb,Retail Beans,Blend,Cascade Blend,26.0,12.37,2022-01-01,0
+80,Costa Rica Tarrazu Medium 5lb,Retail Beans,Single Origin,Costa Rica Tarrazu,24.5,11.86,2022-01-01,0
+81,Pearl District Reserve Light 5lb,Retail Beans,Blend,Pearl District Reserve,37.5,17.93,2022-01-01,1
+82,Espresso Blend Medium 5lb,Retail Beans,Blend,Espresso Blend,20.5,9.09,2022-06-01,1
+83,Peru Cajamarca Dark 2lb,Retail Beans,Single Origin,Peru Cajamarca,18.0,9.28,2024-01-01,1
+84,Mexico Chiapas Light 5lb,Retail Beans,Single Origin,Mexico Chiapas,13.0,6.69,2024-01-01,1
+85,Kenya AA Dark 5lb,Retail Beans,Single Origin,Kenya AA,23.0,11.24,2022-01-01,1
+86,Honduras Marcala Light 12oz,Retail Beans,Single Origin,Honduras Marcala,31.5,12.32,2022-01-01,0
+87,Guatemala Antigua Dark 2lb,Retail Beans,Single Origin,Guatemala Antigua,24.0,10.29,2023-01-01,1
+88,Bridgetown Blend Dark 5lb,Retail Beans,Blend,Bridgetown Blend,28.0,10.74,2022-06-01,1
+89,Ethiopia Yirgacheffe Medium 5lb,Retail Beans,Single Origin,Ethiopia Yirgacheffe,39.5,20.84,2022-01-01,1
+90,Ethiopia Yirgacheffe Light 12oz,Retail Beans,Single Origin,Ethiopia Yirgacheffe,26.0,11.76,2022-06-01,1
+91,Ethiopia Yirgacheffe Medium 12oz,Retail Beans,Single Origin,Ethiopia Yirgacheffe,16.0,7.17,2022-01-01,0
+92,Pearl District Reserve Light 12oz,Retail Beans,Blend,Pearl District Reserve,18.5,8.3,2022-01-01,0
+93,Bridgetown Blend Light 12oz,Retail Beans,Blend,Bridgetown Blend,36.5,22.63,2023-01-01,1
+94,Ethiopia Yirgacheffe Light 12oz,Retail Beans,Single Origin,Ethiopia Yirgacheffe,27.0,10.81,2022-01-01,0
+95,Sumatra Mandheling Medium 12oz,Retail Beans,Single Origin,Sumatra Mandheling,37.5,21.33,2022-01-01,1
+96,Kenya AA Light 12oz,Retail Beans,Single Origin,Kenya AA,15.5,7.07,2022-06-01,1
+97,Colombia Huila Light 2lb,Retail Beans,Single Origin,Colombia Huila,18.5,9.47,2023-01-01,1
+98,Ethiopia Yirgacheffe Dark 2lb,Retail Beans,Single Origin,Ethiopia Yirgacheffe,19.0,8.71,2022-01-01,0
+99,Kenya AA Medium 5lb,Retail Beans,Single Origin,Kenya AA,14.5,6.63,2022-01-01,1
+100,Honduras Marcala Medium 2lb,Retail Beans,Single Origin,Honduras Marcala,18.0,8.47,2023-07-01,1
+101,Colombia Huila Medium 12oz,Retail Beans,Single Origin,Colombia Huila,23.5,13.52,2024-09-01,0
+102,Sumatra Mandheling Medium 5lb,Retail Beans,Single Origin,Sumatra Mandheling,16.0,6.62,2024-01-01,1
+103,Colombia Huila Medium 2lb,Retail Beans,Single Origin,Colombia Huila,19.0,9.51,2023-07-01,1
+104,Ethiopia Guji Medium 2lb,Retail Beans,Single Origin,Ethiopia Guji,12.0,4.73,2022-01-01,1
+105,Ethiopia Guji Light 5lb,Retail Beans,Single Origin,Ethiopia Guji,26.0,13.81,2024-01-01,1
+106,Bridgetown Blend Medium 2lb,Retail Beans,Blend,Bridgetown Blend,22.5,11.19,2022-01-01,1
+107,Ethiopia Guji Medium 2lb,Retail Beans,Single Origin,Ethiopia Guji,31.5,17.95,2022-01-01,1
+108,Guatemala Antigua Medium 2lb,Retail Beans,Single Origin,Guatemala Antigua,38.5,19.74,2024-01-01,1
+109,Colombia Huila Medium 5lb,Retail Beans,Single Origin,Colombia Huila,26.0,12.32,2022-01-01,1
+110,Cascade Blend Light 2lb,Retail Beans,Blend,Cascade Blend,25.0,10.65,2024-09-01,1
+111,Bridgetown Blend Dark 5lb,Retail Beans,Blend,Bridgetown Blend,17.5,8.86,2022-01-01,0
+112,Ethiopia Guji Light 12oz,Retail Beans,Single Origin,Ethiopia Guji,18.0,9.66,2024-01-01,1
+113,Kenya AA Dark 5lb,Retail Beans,Single Origin,Kenya AA,14.5,9.04,2022-01-01,1
+114,Ethiopia Yirgacheffe Light 12oz,Retail Beans,Single Origin,Ethiopia Yirgacheffe,12.5,6.19,2022-01-01,1
+115,Cascade Blend Medium 5lb,Retail Beans,Blend,Cascade Blend,14.5,6.48,2022-01-01,1
+116,Colombia Huila Dark 2lb,Retail Beans,Single Origin,Colombia Huila,38.5,20.86,2024-01-01,1
+117,Rwanda Nyungwe Medium 2lb,Retail Beans,Single Origin,Rwanda Nyungwe,19.5,9.3,2022-01-01,1
+118,Peru Cajamarca Light 2lb,Retail Beans,Single Origin,Peru Cajamarca,30.0,13.41,2022-01-01,1
+119,Sumatra Mandheling Light 12oz,Retail Beans,Single Origin,Sumatra Mandheling,26.5,15.03,2022-01-01,1
+120,Ethiopia Guji Medium 5lb,Retail Beans,Single Origin,Ethiopia Guji,30.0,16.48,2022-01-01,0
+121,House Blend Medium 5lb,Retail Beans,Blend,House Blend,35.0,16.31,2022-01-01,1
+122,Morning Roast Dark 2lb,Retail Beans,Blend,Morning Roast,12.5,6.32,2023-01-01,1
+123,Ethiopia Yirgacheffe Light 12oz,Retail Beans,Single Origin,Ethiopia Yirgacheffe,17.0,9.97,2022-01-01,1
+124,Ethiopia Yirgacheffe Medium 12oz,Retail Beans,Single Origin,Ethiopia Yirgacheffe,21.0,9.4,2022-01-01,1
+125,Sumatra Mandheling Light 5lb,Retail Beans,Single Origin,Sumatra Mandheling,14.5,8.2,2022-01-01,1
+126,Ethiopia Yirgacheffe Dark 2lb,Retail Beans,Single Origin,Ethiopia Yirgacheffe,15.5,8.01,2023-01-01,0
+127,Brazil Cerrado Light 2lb,Retail Beans,Single Origin,Brazil Cerrado,26.0,13.31,2022-01-01,1
+128,Morning Roast Dark 5lb,Retail Beans,Blend,Morning Roast,47.5,15.53,2022-01-01,1
+129,Bridgetown Blend Dark 12oz,Retail Beans,Blend,Bridgetown Blend,21.0,9.35,2022-06-01,1
+130,Ethiopia Guji Medium 5lb,Retail Beans,Single Origin,Ethiopia Guji,11.5,5.75,2022-01-01,1
+131,Mexico Chiapas Light 12oz,Retail Beans,Single Origin,Mexico Chiapas,13.5,6.62,2022-01-01,1
+132,Ethiopia Guji Medium 12oz,Retail Beans,Single Origin,Ethiopia Guji,15.0,17.16,2022-01-01,1
+133,Morning Roast Medium 2lb,Retail Beans,Blend,Morning Roast,14.5,7.03,2022-01-01,1
+134,Sumatra Mandheling Light 2lb,Retail Beans,Single Origin,Sumatra Mandheling,14.0,6.06,2023-01-01,1
+135,House Blend Light 2lb,Retail Beans,Blend,House Blend,14.0,6.4,2022-01-01,1
+136,Costa Rica Tarrazu Medium 12oz,Retail Beans,Single Origin,Costa Rica Tarrazu,22.0,8.91,2024-09-01,1
+137,Ethiopia Guji Light 5lb,Retail Beans,Single Origin,Ethiopia Guji,21.0,8.19,2023-07-01,1
+138,Espresso Blend Medium 2lb,Retail Beans,Blend,Espresso Blend,20.5,12.61,2022-01-01,1
+139,Willamette Dark Light 12oz,Retail Beans,Blend,Willamette Dark,11.5,4.75,2022-01-01,1
+140,Ethiopia Yirgacheffe Light 12oz,Retail Beans,Single Origin,Ethiopia Yirgacheffe,14.0,7.48,2022-01-01,0
+141,Pearl District Reserve Medium 12oz,Retail Beans,Blend,Pearl District Reserve,24.0,11.54,2022-06-01,1
+142,Rwanda Nyungwe Medium 12oz,Retail Beans,Single Origin,Rwanda Nyungwe,14.0,7.58,2022-01-01,1
+143,Mexico Chiapas Light 12oz,Retail Beans,Single Origin,Mexico Chiapas,12.0,5.56,2024-09-01,1
+144,Honduras Marcala Dark 12oz,Retail Beans,Single Origin,Honduras Marcala,14.5,6.48,2022-01-01,1
+145,Honduras Marcala Light 12oz,Retail Beans,Single Origin,Honduras Marcala,20.5,12.6,2022-01-01,1
+146,Bridgetown Blend Light 2lb,Retail Beans,Blend,Bridgetown Blend,43.0,18.24,2022-01-01,1
+147,Mexico Chiapas Medium 2lb,Retail Beans,Single Origin,Mexico Chiapas,20.0,10.82,2024-09-01,1
+148,Guatemala Antigua Medium 5lb,Retail Beans,Single Origin,Guatemala Antigua,40.5,17.89,2024-09-01,0
+149,Brazil Cerrado Light 2lb,Retail Beans,Single Origin,Brazil Cerrado,24.5,14.38,2023-07-01,1
+150,Kenya AA Light 2lb,Retail Beans,Single Origin,Kenya AA,15.0,5.98,2022-01-01,0
+151,Brazil Cerrado Light 5lb,Retail Beans,Single Origin,Brazil Cerrado,28.5,13.58,2022-01-01,0
+152,Ethiopia Guji Dark 12oz,Retail Beans,Single Origin,Ethiopia Guji,17.0,8.15,2023-01-01,1
+153,Ethiopia Guji Light 5lb,Retail Beans,Single Origin,Ethiopia Guji,22.0,12.21,2022-01-01,1
+154,Morning Roast Light 12oz,Retail Beans,Blend,Morning Roast,26.0,10.83,2024-09-01,1
+155,Espresso Blend Dark 5lb,Retail Beans,Blend,Espresso Blend,16.0,6.44,2023-01-01,1
+156,Costa Rica Tarrazu Medium 5lb,Retail Beans,Single Origin,Costa Rica Tarrazu,23.0,11.32,2022-01-01,1
+157,Ethiopia Yirgacheffe Medium 5lb,Retail Beans,Single Origin,Ethiopia Yirgacheffe,18.0,8.38,2024-09-01,1
+158,Mexico Chiapas Light 2lb,Retail Beans,Single Origin,Mexico Chiapas,13.0,5.99,2023-07-01,1
+159,Kenya AA Medium 12oz,Retail Beans,Single Origin,Kenya AA,12.5,5.09,2022-01-01,1
+160,Peru Cajamarca Dark 2lb,Retail Beans,Single Origin,Peru Cajamarca,32.0,16.81,2022-01-01,1
+161,Morning Roast Medium 5lb,Retail Beans,Blend,Morning Roast,35.0,16.73,2022-01-01,1
+162,Colombia Huila Dark 5lb,Retail Beans,Single Origin,Colombia Huila,20.5,8.79,2022-01-01,0
+163,Rwanda Nyungwe Light 2lb,Retail Beans,Single Origin,Rwanda Nyungwe,17.5,8.11,2022-06-01,0
+164,House Blend Light 5lb,Retail Beans,Blend,House Blend,37.5,20.21,2022-01-01,1
+165,Guatemala Antigua Medium 12oz,Retail Beans,Single Origin,Guatemala Antigua,20.0,10.09,2022-01-01,1
+166,Cascade Blend Medium 12oz,Retail Beans,Blend,Cascade Blend,27.5,13.1,2023-01-01,0
+167,Rose City Roast Dark 2lb,Retail Beans,Blend,Rose City Roast,23.0,10.73,2023-07-01,1
+168,Brazil Cerrado Dark 12oz,Retail Beans,Single Origin,Brazil Cerrado,19.0,7.7,2022-01-01,1
+169,Kenya AA Medium 2lb,Retail Beans,Single Origin,Kenya AA,13.5,6.45,2022-01-01,1
+170,Colombia Huila Light 2lb,Retail Beans,Single Origin,Colombia Huila,35.5,34.73,2022-01-01,1
+171,Espresso Blend Light 2lb,Retail Beans,Blend,Espresso Blend,24.5,12.09,2023-01-01,1
+172,Cascade Blend Light 5lb,Retail Beans,Blend,Cascade Blend,27.0,12.06,2024-01-01,0
+173,Guatemala Antigua Dark 12oz,Retail Beans,Single Origin,Guatemala Antigua,37.0,14.73,2024-01-01,0
+174,Willamette Dark Light 12oz,Retail Beans,Blend,Willamette Dark,20.0,9.8,2022-06-01,1
+175,Costa Rica Tarrazu Medium 2lb,Retail Beans,Single Origin,Costa Rica Tarrazu,25.5,11.55,2022-06-01,1
+176,Mexico Chiapas Medium 12oz,Retail Beans,Single Origin,Mexico Chiapas,31.5,15.29,2024-09-01,1
+177,Morning Roast Medium 12oz,Retail Beans,Blend,Morning Roast,22.0,10.18,2022-06-01,1
+178,Brazil Cerrado Medium 2lb,Retail Beans,Single Origin,Brazil Cerrado,23.5,13.71,2022-01-01,1
+179,Espresso Blend Dark 12oz,Retail Beans,Blend,Espresso Blend,13.0,4.49,2023-07-01,1
+180,Bridgetown Blend Dark 12oz,Retail Beans,Blend,Bridgetown Blend,25.0,12.16,2022-06-01,1
+181,Cascade Blend Medium 12oz,Retail Beans,Blend,Cascade Blend,18.0,8.95,2024-01-01,1
+182,Pearl District Reserve Medium 5lb,Retail Beans,Blend,Pearl District Reserve,29.5,12.2,2022-01-01,1
+183,Honduras Marcala Medium 2lb,Retail Beans,Single Origin,Honduras Marcala,35.0,15.26,2024-01-01,1
+184,Ethiopia Guji Dark 5lb,Retail Beans,Single Origin,Ethiopia Guji,25.5,11.32,2022-01-01,1
+185,Peru Cajamarca Dark 2lb,Retail Beans,Single Origin,Peru Cajamarca,21.5,10.46,2022-01-01,1
+186,Rose City Roast Medium 5lb,Retail Beans,Blend,Rose City Roast,27.5,13.3,2022-01-01,1
+187,Sumatra Mandheling Dark 2lb,Retail Beans,Single Origin,Sumatra Mandheling,25.5,12.81,2022-06-01,1
+188,Sumatra Mandheling Medium 5lb,Retail Beans,Single Origin,Sumatra Mandheling,20.0,11.59,2023-01-01,0
+189,Cascade Blend Dark 12oz,Retail Beans,Blend,Cascade Blend,24.5,11.26,2022-01-01,0
+190,Rose City Roast Dark 5lb,Retail Beans,Blend,Rose City Roast,40.0,19.21,2022-01-01,1
+191,Colombia Huila Dark 12oz,Retail Beans,Single Origin,Colombia Huila,22.0,10.56,2024-01-01,1
+192,Pearl District Reserve Medium 5lb,Retail Beans,Blend,Pearl District Reserve,17.0,7.17,2023-07-01,0
+193,Willamette Dark Medium 2lb,Retail Beans,Blend,Willamette Dark,19.5,10.48,2023-01-01,1
+194,House Blend Dark 5lb,Retail Beans,Blend,House Blend,14.5,8.16,2022-01-01,0
+195,WS Rose City Roast 2lb,Wholesale Beans,Wholesale,Rose City Roast,31.5,19.82,2022-01-01,1
+196,WS Costa Rica Tarrazu 2lb,Wholesale Beans,Wholesale,Costa Rica Tarrazu,30.0,20.53,2022-01-01,1
+197,WS Peru Cajamarca 5lb,Wholesale Beans,Wholesale,Peru Cajamarca,44.0,27.89,2022-01-01,1
+198,WS Peru Cajamarca 5lb,Wholesale Beans,Wholesale,Peru Cajamarca,20.5,13.43,2024-01-01,1
+199,WS Costa Rica Tarrazu 5lb,Wholesale Beans,Wholesale,Costa Rica Tarrazu,30.5,18.71,2022-01-01,0
+200,WS Kenya AA 5lb,Wholesale Beans,Wholesale,Kenya AA,19.5,12.79,2023-01-01,0
+201,WS Kenya AA 5lb,Wholesale Beans,Wholesale,Kenya AA,42.0,26.21,2023-01-01,1
+202,WS Brazil Cerrado 2lb,Wholesale Beans,Wholesale,Brazil Cerrado,29.0,16.91,2022-01-01,0
+203,WS Kenya AA 2lb,Wholesale Beans,Wholesale,Kenya AA,31.5,35.12,2022-01-01,1
+204,WS Bridgetown Blend 2lb,Wholesale Beans,Wholesale,Bridgetown Blend,39.5,25.06,2023-01-01,0
+205,WS Costa Rica Tarrazu 2lb,Wholesale Beans,Wholesale,Costa Rica Tarrazu,33.5,22.76,2022-01-01,0
+206,WS Mexico Chiapas 2lb,Wholesale Beans,Wholesale,Mexico Chiapas,32.0,20.36,2022-01-01,1
+207,WS Willamette Dark 5lb,Wholesale Beans,Wholesale,Willamette Dark,45.0,28.61,2024-01-01,1
+208,WS Peru Cajamarca 5lb,Wholesale Beans,Wholesale,Peru Cajamarca,35.0,21.62,2023-01-01,0
+209,WS Kenya AA 5lb,Wholesale Beans,Wholesale,Kenya AA,48.0,31.32,2023-07-01,1
+210,WS House Blend 5lb,Wholesale Beans,Wholesale,House Blend,39.0,21.77,2022-01-01,0
+211,WS Colombia Huila 2lb,Wholesale Beans,Wholesale,Colombia Huila,42.5,26.07,2022-01-01,0
+212,WS Guatemala Antigua 5lb,Wholesale Beans,Wholesale,Guatemala Antigua,53.0,34.02,2022-01-01,1
+213,WS Bridgetown Blend 2lb,Wholesale Beans,Wholesale,Bridgetown Blend,22.0,11.26,2022-01-01,1
+214,WS Peru Cajamarca 2lb,Wholesale Beans,Wholesale,Peru Cajamarca,40.0,27.19,2022-01-01,1
+215,WS Costa Rica Tarrazu 5lb,Wholesale Beans,Wholesale,Costa Rica Tarrazu,19.5,11.6,2024-09-01,1
+216,WS Guatemala Antigua 2lb,Wholesale Beans,Wholesale,Guatemala Antigua,34.5,24.24,2022-01-01,0
+217,WS Ethiopia Guji 5lb,Wholesale Beans,Wholesale,Ethiopia Guji,34.5,19.3,2023-01-01,0
+218,WS Espresso Blend 5lb,Wholesale Beans,Wholesale,Espresso Blend,28.0,18.92,2022-06-01,0
+219,WS Ethiopia Yirgacheffe 2lb,Wholesale Beans,Wholesale,Ethiopia Yirgacheffe,24.5,15.34,2022-06-01,0
+220,WS Rose City Roast 5lb,Wholesale Beans,Wholesale,Rose City Roast,29.5,17.76,2022-01-01,1
+221,WS Bridgetown Blend 5lb,Wholesale Beans,Wholesale,Bridgetown Blend,30.0,21.08,2022-01-01,1
+222,WS Colombia Huila 2lb,Wholesale Beans,Wholesale,Colombia Huila,17.0,9.22,2022-06-01,0
+223,WS Rose City Roast 5lb,Wholesale Beans,Wholesale,Rose City Roast,34.5,22.58,2022-01-01,1
+224,WS Colombia Huila 5lb,Wholesale Beans,Wholesale,Colombia Huila,43.5,26.74,2023-01-01,1
+225,WS Espresso Blend 2lb,Wholesale Beans,Wholesale,Espresso Blend,23.0,12.12,2022-01-01,1
+226,WS Cascade Blend 5lb,Wholesale Beans,Wholesale,Cascade Blend,25.0,15.4,2022-01-01,1
+227,WS Rwanda Nyungwe 5lb,Wholesale Beans,Wholesale,Rwanda Nyungwe,22.0,11.64,2023-07-01,0
+228,WS Rwanda Nyungwe 2lb,Wholesale Beans,Wholesale,Rwanda Nyungwe,37.0,23.03,2022-06-01,1
+229,WS Mexico Chiapas 2lb,Wholesale Beans,Wholesale,Mexico Chiapas,26.5,17.14,2022-01-01,1
+230,WS Cascade Blend 5lb,Wholesale Beans,Wholesale,Cascade Blend,27.0,15.78,2024-01-01,1
+231,WS Pearl District Reserve 2lb,Wholesale Beans,Wholesale,Pearl District Reserve,40.5,25.05,2022-01-01,1
+232,WS House Blend 2lb,Wholesale Beans,Wholesale,House Blend,45.5,34.14,2024-09-01,1
+233,WS Kenya AA 2lb,Wholesale Beans,Wholesale,Kenya AA,36.0,22.37,2023-07-01,1
+234,WS Pearl District Reserve 2lb,Wholesale Beans,Wholesale,Pearl District Reserve,40.5,30.28,2024-09-01,1
+235,WS Kenya AA 5lb,Wholesale Beans,Wholesale,Kenya AA,42.5,28.81,2024-09-01,0
+236,WS Pearl District Reserve 5lb,Wholesale Beans,Wholesale,Pearl District Reserve,17.5,13.45,2022-01-01,1
+237,WS Willamette Dark 5lb,Wholesale Beans,Wholesale,Willamette Dark,43.5,24.87,2023-07-01,0
+238,WS Kenya AA 5lb,Wholesale Beans,Wholesale,Kenya AA,26.5,15.83,2022-01-01,1
+239,WS Mexico Chiapas 2lb,Wholesale Beans,Wholesale,Mexico Chiapas,44.5,31.76,2022-01-01,1
+240,WS Brazil Cerrado 2lb,Wholesale Beans,Wholesale,Brazil Cerrado,50.5,29.06,2022-01-01,0
+241,WS Peru Cajamarca 2lb,Wholesale Beans,Wholesale,Peru Cajamarca,22.0,11.19,2022-01-01,1
+242,WS Kenya AA 2lb,Wholesale Beans,Wholesale,Kenya AA,37.5,22.29,2024-01-01,1
+243,WS Rwanda Nyungwe 2lb,Wholesale Beans,Wholesale,Rwanda Nyungwe,20.5,13.61,2022-01-01,0
+244,WS Mexico Chiapas 2lb,Wholesale Beans,Wholesale,Mexico Chiapas,27.5,16.47,2022-01-01,1
+245,WS Ethiopia Yirgacheffe 5lb,Wholesale Beans,Wholesale,Ethiopia Yirgacheffe,38.0,24.14,2022-01-01,0
+246,WS Cascade Blend 2lb,Wholesale Beans,Wholesale,Cascade Blend,34.0,20.31,2023-07-01,1
+247,WS Guatemala Antigua 5lb,Wholesale Beans,Wholesale,Guatemala Antigua,36.5,20.81,2022-01-01,1
+248,WS House Blend 5lb,Wholesale Beans,Wholesale,House Blend,19.0,11.58,2022-06-01,1
+249,WS Pearl District Reserve 5lb,Wholesale Beans,Wholesale,Pearl District Reserve,63.5,40.0,2022-01-01,1
+250,WS Costa Rica Tarrazu 2lb,Wholesale Beans,Wholesale,Costa Rica Tarrazu,38.5,25.99,2022-01-01,0
+251,WS Guatemala Antigua 5lb,Wholesale Beans,Wholesale,Guatemala Antigua,40.5,20.58,2022-06-01,1
+252,WS Espresso Blend 2lb,Wholesale Beans,Wholesale,Espresso Blend,38.0,24.3,2022-06-01,1
+253,WS Rwanda Nyungwe 2lb,Wholesale Beans,Wholesale,Rwanda Nyungwe,24.5,14.23,2024-01-01,1
+254,WS Rose City Roast 5lb,Wholesale Beans,Wholesale,Rose City Roast,26.0,14.15,2022-06-01,0
+255,WS Brazil Cerrado 2lb,Wholesale Beans,Wholesale,Brazil Cerrado,21.5,13.29,2024-09-01,1
+256,WS Honduras Marcala 5lb,Wholesale Beans,Wholesale,Honduras Marcala,24.0,16.19,2024-01-01,1
+257,WS Guatemala Antigua 2lb,Wholesale Beans,Wholesale,Guatemala Antigua,34.5,23.31,2022-01-01,1
+258,WS Espresso Blend 2lb,Wholesale Beans,Wholesale,Espresso Blend,19.5,15.55,2022-01-01,1
+259,WS Colombia Huila 2lb,Wholesale Beans,Wholesale,Colombia Huila,38.0,20.28,2022-01-01,1
+260,WS Willamette Dark 5lb,Wholesale Beans,Wholesale,Willamette Dark,26.5,17.37,2022-01-01,1
+261,WS Willamette Dark 2lb,Wholesale Beans,Wholesale,Willamette Dark,37.5,23.51,2022-01-01,0
+262,WS Guatemala Antigua 5lb,Wholesale Beans,Wholesale,Guatemala Antigua,30.0,19.9,2023-07-01,1
+263,WS Willamette Dark 2lb,Wholesale Beans,Wholesale,Willamette Dark,34.5,24.21,2022-01-01,1
+264,WS Mexico Chiapas 2lb,Wholesale Beans,Wholesale,Mexico Chiapas,18.0,13.6,2022-01-01,1
+265,WS Kenya AA 5lb,Wholesale Beans,Wholesale,Kenya AA,38.5,19.93,2022-01-01,1
+266,WS Rwanda Nyungwe 2lb,Wholesale Beans,Wholesale,Rwanda Nyungwe,33.5,22.4,2022-01-01,0
+267,WS Cascade Blend 2lb,Wholesale Beans,Wholesale,Cascade Blend,20.5,12.74,2022-01-01,1
+268,WS Willamette Dark 5lb,Wholesale Beans,Wholesale,Willamette Dark,26.5,18.26,2022-01-01,0
+269,WS Brazil Cerrado 5lb,Wholesale Beans,Wholesale,Brazil Cerrado,24.0,14.4,2023-07-01,1
+270,WS Kenya AA 2lb,Wholesale Beans,Wholesale,Kenya AA,35.5,21.73,2024-01-01,1
+271,WS Rwanda Nyungwe 2lb,Wholesale Beans,Wholesale,Rwanda Nyungwe,50.5,30.67,2022-01-01,1
+272,WS Colombia Huila 5lb,Wholesale Beans,Wholesale,Colombia Huila,43.0,23.88,2022-06-01,1
+273,WS Cascade Blend 2lb,Wholesale Beans,Wholesale,Cascade Blend,26.5,15.94,2024-09-01,1
+274,WS Cascade Blend 5lb,Wholesale Beans,Wholesale,Cascade Blend,25.0,18.03,2024-01-01,0
+275,WS Cascade Blend 5lb,Wholesale Beans,Wholesale,Cascade Blend,38.5,24.11,2022-01-01,1
+276,WS Espresso Blend 5lb,Wholesale Beans,Wholesale,Espresso Blend,33.0,19.68,2024-09-01,1
+277,WS Kenya AA 2lb,Wholesale Beans,Wholesale,Kenya AA,26.5,17.43,2022-01-01,1
+278,WS Rose City Roast 2lb,Wholesale Beans,Wholesale,Rose City Roast,38.5,23.55,2022-01-01,1
+279,WS Costa Rica Tarrazu 5lb,Wholesale Beans,Wholesale,Costa Rica Tarrazu,24.0,14.65,2022-01-01,0
+280,WS Ethiopia Yirgacheffe 2lb,Wholesale Beans,Wholesale,Ethiopia Yirgacheffe,20.0,12.42,2023-07-01,1
+281,WS Willamette Dark 5lb,Wholesale Beans,Wholesale,Willamette Dark,19.5,11.69,2022-01-01,1
+282,WS Kenya AA 2lb,Wholesale Beans,Wholesale,Kenya AA,33.5,24.03,2022-01-01,0
+283,WS Guatemala Antigua 2lb,Wholesale Beans,Wholesale,Guatemala Antigua,42.0,29.59,2022-01-01,0
+284,WS Mexico Chiapas 5lb,Wholesale Beans,Wholesale,Mexico Chiapas,23.5,14.23,2022-01-01,1
+285,WS Colombia Huila 2lb,Wholesale Beans,Wholesale,Colombia Huila,20.5,14.46,2024-09-01,0
+286,WS Guatemala Antigua 2lb,Wholesale Beans,Wholesale,Guatemala Antigua,41.0,26.36,2022-01-01,0
+287,Milk Frother Mk II,Equipment,Brewing Gear,NA,196.0,127.02,2022-01-01,0
+288,Scale Mk II,Equipment,Brewing Gear,NA,101.0,68.4,2022-01-01,1
+289,Espresso Machine Home,Equipment,Brewing Gear,NA,275.0,160.76,2022-01-01,1
+290,Semi-Auto Machine Mk I,Equipment,Brewing Gear,NA,406.0,276.5,2022-01-01,1
+291,Electric Grinder Home,Equipment,Brewing Gear,NA,275.0,190.36,2022-06-01,1
+292,Scale Home,Equipment,Brewing Gear,NA,309.0,237.78,2022-01-01,1
+293,V60 Dripper Pro,Equipment,Brewing Gear,NA,222.0,157.71,2022-01-01,1
+294,Commercial Grinder Mk II,Equipment,Brewing Gear,NA,297.0,195.04,2024-01-01,1
+295,Espresso Machine Cafe,Equipment,Brewing Gear,NA,185.0,126.94,2022-06-01,1
+296,Gooseneck Kettle Pro,Equipment,Brewing Gear,NA,334.0,221.47,2022-01-01,1
+297,Semi-Auto Machine Home,Equipment,Brewing Gear,NA,208.0,144.28,2022-01-01,1
+298,French Press Mk II,Equipment,Brewing Gear,NA,387.0,399.65,2022-01-01,1
+299,Bulk Brewer Home,Equipment,Brewing Gear,NA,203.0,144.6,2024-01-01,0
+300,Cold Brew Maker Mk I,Equipment,Brewing Gear,NA,241.0,166.12,2022-01-01,0
+301,Semi-Auto Machine Cafe,Equipment,Brewing Gear,NA,158.0,84.93,2022-01-01,1
+302,Commercial Grinder Mk II,Equipment,Brewing Gear,NA,277.0,227.01,2023-07-01,1
+303,Bulk Brewer Pro,Equipment,Brewing Gear,NA,403.0,428.45,2022-01-01,1
+304,Commercial Grinder Cafe,Equipment,Brewing Gear,NA,71.0,47.74,2022-01-01,1
+305,Gooseneck Kettle Cafe,Equipment,Brewing Gear,NA,249.0,190.2,2023-01-01,1
+306,Moka Pot Mk I,Equipment,Brewing Gear,NA,417.0,296.8,2022-01-01,1
+307,Electric Grinder Home,Equipment,Brewing Gear,NA,230.0,176.3,2024-01-01,1
+308,Moka Pot Pro,Equipment,Brewing Gear,NA,335.0,225.56,2024-01-01,0
+309,Moka Pot Mk I,Equipment,Brewing Gear,NA,493.0,358.15,2022-01-01,1
+310,Bulk Brewer Mk I,Equipment,Brewing Gear,NA,209.0,149.88,2022-06-01,1
+311,Electric Grinder Mk II,Equipment,Brewing Gear,NA,148.0,80.5,2022-06-01,1
+312,French Press Home,Equipment,Brewing Gear,NA,282.0,209.65,2023-01-01,1
+313,Cold Brew Maker Pro,Equipment,Brewing Gear,NA,173.0,88.48,2022-01-01,1
+314,Cold Brew Maker Mk II,Equipment,Brewing Gear,NA,190.0,109.75,2022-01-01,1
+315,Electric Grinder Home,Equipment,Brewing Gear,NA,243.0,143.92,2022-01-01,1
+316,Electric Grinder Mk I,Equipment,Brewing Gear,NA,301.0,182.78,2023-01-01,0
+317,Scale Cafe,Equipment,Brewing Gear,NA,84.0,57.16,2022-01-01,1
+318,Gooseneck Kettle Pro,Equipment,Brewing Gear,NA,211.0,145.35,2022-01-01,1
+319,Electric Grinder Cafe,Equipment,Brewing Gear,NA,164.0,115.55,2023-07-01,1
+320,V60 Dripper Home,Equipment,Brewing Gear,NA,381.0,259.24,2024-09-01,0
+321,Gooseneck Kettle Mk II,Equipment,Brewing Gear,NA,146.0,101.56,2022-01-01,1
+322,Cold Brew Maker Cafe,Equipment,Brewing Gear,NA,264.0,168.85,2022-01-01,1
+323,Scale Pro,Equipment,Brewing Gear,NA,199.0,130.37,2023-01-01,0
+324,Electric Grinder Pro,Equipment,Brewing Gear,NA,249.0,182.78,2022-01-01,1
+325,Moka Pot Mk II,Equipment,Brewing Gear,NA,335.0,268.76,2022-01-01,1
+326,Electric Grinder Home,Equipment,Brewing Gear,NA,111.0,73.94,2024-09-01,1
+327,Bulk Brewer Mk II,Equipment,Brewing Gear,NA,347.0,214.23,2024-01-01,1
+328,Electric Grinder Mk I,Equipment,Brewing Gear,NA,138.0,85.36,2023-01-01,0
+329,Milk Frother Cafe,Equipment,Brewing Gear,NA,205.0,136.5,2024-01-01,1
+330,Bulk Brewer Mk II,Equipment,Brewing Gear,NA,235.0,185.58,2022-01-01,1
+331,Semi-Auto Machine Mk II,Equipment,Brewing Gear,NA,553.0,328.85,2022-01-01,1
+332,Espresso Machine Home,Equipment,Brewing Gear,NA,220.0,146.96,2022-01-01,1
+333,Semi-Auto Machine Cafe,Equipment,Brewing Gear,NA,339.0,274.37,2022-01-01,1
+334,French Press Mk I,Equipment,Brewing Gear,NA,152.0,113.17,2024-01-01,1
+335,Semi-Auto Machine Cafe,Equipment,Brewing Gear,NA,348.0,260.88,2022-01-01,1
+336,Semi-Auto Machine Mk I,Equipment,Brewing Gear,NA,216.0,140.27,2022-01-01,1
+337,Commercial Grinder Mk I,Equipment,Brewing Gear,NA,459.0,283.84,2024-01-01,0
+338,French Press Cafe,Equipment,Brewing Gear,NA,445.0,329.76,2023-07-01,1
+339,Manual Grinder Mk II,Equipment,Brewing Gear,NA,331.0,199.39,2022-01-01,1
+340,Electric Grinder Mk II,Equipment,Brewing Gear,NA,492.0,358.22,2022-01-01,1
+341,Espresso Machine Cafe,Equipment,Brewing Gear,NA,417.0,417.56,2022-06-01,1
+342,Gooseneck Kettle Home,Equipment,Brewing Gear,NA,99.0,65.86,2023-07-01,0
+343,Semi-Auto Machine Mk II,Equipment,Brewing Gear,NA,213.0,160.21,2022-01-01,1
+344,AeroPress Home,Equipment,Brewing Gear,NA,198.0,137.45,2022-01-01,1
+345,Travel Tumbler,Merch,Merch,NA,10.0,5.86,2023-07-01,1
+346,Notebook,Merch,Merch,NA,13.0,8.14,2024-01-01,1
+347,Notebook,Merch,Merch,NA,27.0,16.7,2022-01-01,1
+348,Cap,Merch,Merch,NA,9.0,4.48,2022-01-01,0
+349,Roasters Tee,Merch,Merch,NA,32.0,22.83,2022-01-01,1
+350,Roasters Tee,Merch,Merch,NA,9.0,4.55,2024-01-01,0
+351,Roasters Tee,Merch,Merch,NA,23.0,14.57,2024-09-01,1
+352,Cap,Merch,Merch,NA,22.0,13.53,2022-01-01,1
+353,Cotton Tote,Merch,Merch,NA,9.0,5.29,2022-01-01,1
+354,Enamel Pin,Merch,Merch,NA,21.0,13.62,2022-06-01,1
+355,Coaster Set,Merch,Merch,NA,37.0,42.31,2024-01-01,1
+356,Travel Tumbler,Merch,Merch,NA,9.0,4.88,2024-09-01,1
+357,Cotton Tote,Merch,Merch,NA,19.0,11.05,2022-01-01,1
+358,Coaster Set,Merch,Merch,NA,31.0,19.59,2022-01-01,1
+359,Brew Guide Book,Merch,Merch,NA,10.0,6.4,2022-01-01,1
+360,Brew Guide Book,Merch,Merch,NA,28.0,16.38,2022-01-01,1
+361,Coaster Set,Merch,Merch,NA,45.0,27.25,2024-01-01,1
+362,Roasters Tee,Merch,Merch,NA,25.0,13.22,2022-01-01,1
+363,Enamel Pin,Merch,Merch,NA,26.0,12.83,2023-01-01,1
+364,Roasters Tee,Merch,Merch,NA,26.0,15.62,2024-09-01,1
+365,Coaster Set,Merch,Merch,NA,18.0,19.92,2023-01-01,1
+366,Brew Guide Book,Merch,Merch,NA,11.0,6.22,2023-07-01,1
+367,Ceramic Mug,Merch,Merch,NA,27.0,17.48,2022-01-01,1
+368,Brew Guide Book,Merch,Merch,NA,18.0,10.88,2024-01-01,1
+369,Coaster Set,Merch,Merch,NA,25.0,14.15,2022-01-01,0
+370,Gift Box,Merch,Merch,NA,40.0,23.51,2022-01-01,1
+371,Roasters Tee,Merch,Merch,NA,44.0,27.7,2022-01-01,1
+372,Enamel Pin,Merch,Merch,NA,19.0,11.85,2022-01-01,1
+373,Cap,Merch,Merch,NA,15.0,9.42,2022-01-01,1
+374,Roasters Tee,Merch,Merch,NA,15.0,9.89,2022-01-01,1
+375,Roasters Tee,Merch,Merch,NA,21.0,11.77,2022-01-01,1
+376,Cotton Tote,Merch,Merch,NA,35.0,22.6,2022-01-01,1
+377,Notebook,Merch,Merch,NA,40.0,22.41,2022-01-01,0
+378,Roasters Tee,Merch,Merch,NA,16.0,9.5,2023-01-01,1
+379,Cap,Merch,Merch,NA,9.0,6.06,2022-01-01,1
+380,Roasters Tee,Merch,Merch,NA,13.0,5.57,2023-07-01,1
+381,Notebook,Merch,Merch,NA,13.0,7.35,2022-01-01,1
+382,Coaster Set,Merch,Merch,NA,43.0,30.47,2024-01-01,1
+383,Travel Tumbler,Merch,Merch,NA,34.0,23.35,2022-01-01,1
+384,Coaster Set,Merch,Merch,NA,21.0,12.26,2022-01-01,0
+385,Travel Tumbler,Merch,Merch,NA,28.0,17.09,2022-01-01,0
+386,Enamel Pin,Merch,Merch,NA,31.0,18.66,2023-07-01,0
+387,Ceramic Mug,Merch,Merch,NA,18.0,11.17,2024-01-01,1
+388,Brew Guide Book,Merch,Merch,NA,12.0,8.62,2022-01-01,1
+389,Roasters Tee,Merch,Merch,NA,9.0,5.71,2022-06-01,0
+390,Cotton Tote,Merch,Merch,NA,15.0,9.03,2022-06-01,1
+391,Cap,Merch,Merch,NA,21.0,13.75,2022-01-01,1
+392,Roasters Tee,Merch,Merch,NA,11.0,6.34,2022-01-01,1
+393,Weekly 12oz Plan,Subscription,Subscription,NA,48.0,25.86,2023-01-01,0
+394,Biweekly 2lb Plan,Subscription,Subscription,NA,38.0,23.87,2024-09-01,1
+395,Monthly 12oz Plan,Subscription,Subscription,NA,49.0,28.83,2024-01-01,1
+396,Monthly 2lb Plan,Subscription,Subscription,NA,54.0,29.75,2022-01-01,1
+397,Weekly 2lb Plan,Subscription,Subscription,NA,50.0,27.39,2022-01-01,1
+398,Weekly 2lb Plan,Subscription,Subscription,NA,22.0,11.16,2022-01-01,1
+399,Biweekly 2lb Plan,Subscription,Subscription,NA,22.0,14.14,2022-01-01,1
+400,Weekly 12oz Plan,Subscription,Subscription,NA,49.0,30.91,2022-06-01,1
+401,Monthly 2lb Plan,Subscription,Subscription,NA,52.0,33.69,2022-01-01,1
+402,Monthly 12oz Plan,Subscription,Subscription,NA,35.0,19.96,2022-01-01,0
+403,Biweekly 12oz Plan,Subscription,Subscription,NA,29.0,16.55,2022-01-01,1
+404,Monthly 12oz Plan,Subscription,Subscription,NA,53.0,31.46,2022-01-01,1
